@@ -1,1 +1,1 @@
-# Minimal-Case-for-Watchy
+# Slim - A case for Watchy
